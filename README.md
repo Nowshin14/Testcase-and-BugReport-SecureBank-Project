@@ -124,6 +124,8 @@ services:
 ## Mind Map
  Creating a mind map for manual testing provides a visual and intuitive way to organize and communicate the testing process. It helps testers break down complex ideas, prioritize 
  tasks, and ensure comprehensive coverage of testing scenarios.
+
+ 
 ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/bb54470543b438ce1b0acc73127531b05c967260/MindMap-SecureBank.png)
 
 ## Test Scenarios
