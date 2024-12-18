@@ -117,7 +117,7 @@ services:
 
  
  ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/TestPlan_1.png)
- ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/TestPlan_2.png)
+ ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/afa6819090d620f91b47434ed20afa3b0fcd9391/Project_images/TestPlan_02.png)
  ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/TestPlan_3.png)
  
 
@@ -150,7 +150,7 @@ A test summary for manual testing is an essential part of the testing lifecycle.
 Bug reports is a critical activity in manual testing, as it provides a structured way to document and communicate issues discovered during the testing process. The number of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 3 test cases failed. 
 
 ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/BugReport_Sl01.png)
-![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/BugReport_Sl02%2C03.png)
+![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/afa6819090d620f91b47434ed20afa3b0fcd9391/Project_images/BugReport_Sl02and03.png)
 
 
 ## Test Metrics
