@@ -114,6 +114,8 @@ services:
  At first done the test planning for better understanding about the project and overview all over the app. Writing a test plan for manual testing is crucial for organizing and 
  standardizing the testing process. It ensures that testing is thorough, consistent, and aligned with the project’s objectives.  So that when write test cases it helps to understand 
  the functionality.
+
+ 
  ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/TestPlan_1.png)
  ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/TestPlan_2.png)
  ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-SecureBank-Project/blob/12f05f0c334a5231277eda0d6c450bef19dc4489/Project_images/TestPlan_3.png)
